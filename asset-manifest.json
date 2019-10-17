@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/frontend-deployment/static/css/main.d0190f4d.chunk.css",
+    "main.js": "/frontend-deployment/static/js/main.f75b812f.chunk.js",
+    "main.js.map": "/frontend-deployment/static/js/main.f75b812f.chunk.js.map",
+    "runtime-main.js": "/frontend-deployment/static/js/runtime-main.37fab462.js",
+    "runtime-main.js.map": "/frontend-deployment/static/js/runtime-main.37fab462.js.map",
+    "static/js/2.dd3fcc9b.chunk.js": "/frontend-deployment/static/js/2.dd3fcc9b.chunk.js",
+    "static/js/2.dd3fcc9b.chunk.js.map": "/frontend-deployment/static/js/2.dd3fcc9b.chunk.js.map",
+    "index.html": "/frontend-deployment/index.html",
+    "precache-manifest.b2416a4f7fa0d081aa96a943eb521310.js": "/frontend-deployment/precache-manifest.b2416a4f7fa0d081aa96a943eb521310.js",
+    "service-worker.js": "/frontend-deployment/service-worker.js",
+    "static/css/main.d0190f4d.chunk.css.map": "/frontend-deployment/static/css/main.d0190f4d.chunk.css.map",
+    "static/media/avatar.jpg": "/frontend-deployment/static/media/avatar.a5151bc1.jpg",
+    "static/media/bell-regular.svg": "/frontend-deployment/static/media/bell-regular.ac874803.svg",
+    "static/media/book-read.svg": "/frontend-deployment/static/media/book-read.4647858e.svg",
+    "static/media/envelope-regular.svg": "/frontend-deployment/static/media/envelope-regular.21c1e3b2.svg",
+    "static/media/school.jpg": "/frontend-deployment/static/media/school.fad4640b.jpg",
+    "static/media/stjohns.png": "/frontend-deployment/static/media/stjohns.13c4defe.png",
+    "static/media/user-graduate-solid.svg": "/frontend-deployment/static/media/user-graduate-solid.d4ef9082.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.37fab462.js",
+    "static/js/2.dd3fcc9b.chunk.js",
+    "static/css/main.d0190f4d.chunk.css",
+    "static/js/main.f75b812f.chunk.js"
+  ]
+}
